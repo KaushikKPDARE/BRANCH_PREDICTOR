@@ -1,4 +1,3 @@
-
 address=trace.readlines() 
 print "the number of instructions in trace" 
 print len(address) 
